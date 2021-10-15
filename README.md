@@ -1,21 +1,24 @@
 # CSV-manipulation-with-Gradle
 
-## Envionment
+## Development Envionment
 - Language: JAVA
 - Build Tool: Gradle 7.2
 - Libraries : Tablesaw, Junit
 - Windows 10
 
-## Data 
-- Input Data : /data/expeditions.csv
-- Output Data : /result/minerals.csv
-
 ## How to run?
 - ./gradlew run
 
-## How to test?
+### Input and Output Data 
+- Input Data : /data/expeditions.csv
+- Output Data : /result/minerals.csv
+
+## How to run the tests?
 - ./gradlew test
 
-## Test Cases
+### Test Cases
 - 3 tests for csv file read and write
 - 5 tests for different types of input cases
+
+### Test Results
+- \CSV-manipulation-with-Gradle-main\build\reports\tests\test\index.html
