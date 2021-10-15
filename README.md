@@ -7,18 +7,39 @@
 - Windows 10
 
 ## How to run?
-- ./gradlew run
+1. download the code and unzip the file
+2. go to 'CSV-manipulation-with-Gradle-main' directory
+3. run the command
+```
+\CSV-manipulation-with-Gradle-main\gradlew run
+```
 
 ### Input and Output Data 
-- Input Data : /data/expeditions.csv
-- Output Data : /result/minerals.csv
+- Input Data
+```
+\CSV-manipulation-with-Gradle-main\data\expeditions.csv
+```
+- Output Data
+```
+\CSV-manipulation-with-Gradle-main\result\minerals.csv
+```
 
-## How to run the tests?
-- ./gradlew test
+## Unit Test
+
+### how to run the unit test?
+1. download the code and unzip the file
+2. go to 'CSV-manipulation-with-Gradle-main' directory
+3. run the command!
+```
+\CSV-manipulation-with-Gradle-main\gradlew test
+```
 
 ### Test Cases
 - 3 tests for csv file read and write
 - 5 tests for different input data
 
 ### Test Results
-- \CSV-manipulation-with-Gradle-main\build\reports\tests\test\index.html
+- Once gradlew test is excuted, you can check the result here:
+```
+\CSV-manipulation-with-Gradle-main\build\reports\tests\test\index.html
+```
