@@ -18,7 +18,7 @@
 
 ### Test Cases
 - 3 tests for csv file read and write
-- 5 tests for different types of input cases
+- 5 tests for different input data
 
 ### Test Results
 - \CSV-manipulation-with-Gradle-main\build\reports\tests\test\index.html
