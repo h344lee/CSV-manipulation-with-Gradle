@@ -1,0 +1,8 @@
+﻿ExpeditionNumber,ExpeditionType,TripNumber,Quantity,Mineral,Price
+1,A,1,0,Chromium,1
+1,A,2,0,Chromium,1
+2,B,1,0,Gold,3
+2,B,2,0,Chromium,1
+2,B,3,0,Titanium,2
+3,A,1,0,Gold,3
+3,A,2,1,Titanium,2
