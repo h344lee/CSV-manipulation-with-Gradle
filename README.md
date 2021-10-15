@@ -16,6 +16,6 @@
 ## How to test?
 - ./gradlew test
 
-## Test Case
+## Test Cases
 - 3 for csv file read and write
 - 5 for different types of input cases
