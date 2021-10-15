@@ -37,6 +37,14 @@
 ### Test Cases
 - 3 tests for csv file read and write
 - 5 tests for different input data
+```
+\CSV-manipulation-with-Gradle-main\result\testCase1.csv
+\CSV-manipulation-with-Gradle-main\result\testCase2.csv
+\CSV-manipulation-with-Gradle-main\result\testCase3.csv
+\CSV-manipulation-with-Gradle-main\result\testCase4.csv
+\CSV-manipulation-with-Gradle-main\result\testCase5.csv
+```
+
 
 ### Test Results
 - Once gradlew test is excuted, you can check the result here:
