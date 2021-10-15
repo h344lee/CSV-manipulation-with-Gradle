@@ -17,5 +17,5 @@
 - ./gradlew test
 
 ## Test Cases
-- 3 for csv file read and write
-- 5 for different types of input cases
+- 3 tests for csv file read and write
+- 5 tests for different types of input cases
