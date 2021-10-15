@@ -3,7 +3,7 @@
 ## Development Envionment
 - Language: JAVA
 - Build Tool: Gradle 7.2
-- Libraries : Tablesaw, Junit
+- Libraries : Tablesaw 0.38.5, Junit 5.7.0
 - Windows 10
 
 ## How to run?
